@@ -4,10 +4,6 @@
   </a>
 </div>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=iadevmatth&color=1E90FF&style=plastic&label=Visitas" alt="Visitas">
-</p>
-
 <h2 align="center">Sou um Cientista de Dados e Desenvolvedor backend em formação.</h2>
 
 <p align="center" style="margin-top: 20px;">
