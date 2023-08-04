@@ -8,11 +8,7 @@
   <img src="https://komarev.com/ghpvc/?username=iadevmatth&color=1E90FF&style=plastic&label=Visitas" alt="Visitas">
 </p>
 
-<p align="center">
-  <a href="https://github.com/iadevmatth" style="text-decoration: none; font-family: 'Roboto Condensed', sans-serif; font-size: 22px; font-weight: bold; color: #FFFF00;">
-    Sou um Cientista de Dados e Desenvolvedor backend em formação.
-  </a>
-</p>
+<h2 align="center">Sou um Cientista de Dados e Desenvolvedor backend em formação.</h2>
 
 <p align="center" style="margin-top: 20px;">
   <a href="https://www.linkedin.com/in/matheusdevbackend/" class="social-icon" style="text-decoration: none;">
