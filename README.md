@@ -22,6 +22,11 @@
   <img src="https://github-readme-stats.vercel.app/api?username=iadevmatth&show_icons=true&theme=merko" alt="Matth GitHub stats">
 </p>
 
+<p align="center" class="github-lang-stats" style="border: 2px solid #FFD700; border-radius: 5px; padding: 20px;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iadevmatth&layout=compact&theme=merko&langs_count=10" alt="Matth Top Languages">
+
+</p>
+
 <h2 align="center">Tecnologias que estudo/estudei</h2>
 
 <div align="center" style="display: inline_block; margin-bottom: 20px;">
